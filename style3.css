@@ -10,6 +10,10 @@
 .fa-handshake,.fa-user-shield,.fa-hand-holding-heart,.fa-info-circle{
 	color: #2ecab6;
 }
+.fa-info-circle{
+	color: black;
+	font-size:small;
+}
 footer {
     color: #fff;
   }

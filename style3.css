@@ -17,3 +17,15 @@ footer {
     text-decoration: none;
     color: white;
   }
+.mydatatable th{
+  text-align: center;
+}
+
+@media only screen and (max-width: 475px){
+  body .title{
+    font-size: 2rem;
+  }
+  .mydatatable{
+    font-size: smaller;
+  }
+}

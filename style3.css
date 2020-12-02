@@ -13,10 +13,7 @@
 .fa-handshake,.fa-user-shield,.fa-hand-holding-heart{
 	color: #2ecab6;
 }
-.fa-info-circle{
-	color: black;
-	font-size: small;
-}
+
 /* popup */
 
 .popup {
@@ -58,6 +55,10 @@
   visibility: visible;
   -webkit-animation: fadeIn 1s;
   animation: fadeIn 1s;
+}
+.fa-info-circle{
+	color: black;
+	font-size: small;
 }
 footer {
     color: #fff;

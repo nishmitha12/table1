@@ -13,6 +13,10 @@
 .fa-handshake,.fa-user-shield,.fa-hand-holding-heart{
 	color: #2ecab6;
 }
+.fa-info-circle{
+	color: black;
+	font-size: small;
+}
 
 /* popup */
 
@@ -25,10 +29,7 @@
   -ms-user-select: none;
   user-select: none;
 }
-.fa-info-circle{
-	color: black;
-	font-size: small;
-}
+
 .popup .popuptext {
   visibility: hidden;
   width: 200px;

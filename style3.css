@@ -26,7 +26,7 @@
   user-select: none;
 }
 .popup .popuptext {
-  visibility: hidden;
+  visibility: visible;
   width: 400px;
   background-color:#555;
   color: #fff;

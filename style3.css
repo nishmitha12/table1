@@ -25,9 +25,13 @@
   -ms-user-select: none;
   user-select: none;
 }
+.fa-info-circle{
+	color: black;
+	font-size: small;
+}
 .popup .popuptext {
-  visibility: visible;
-  width: 400px;
+  visibility: hidden;
+  width: 200px;
   background-color:#555;
   color: #fff;
   text-align: center;
@@ -41,7 +45,7 @@
 }
 
 .popup .popuptext::after {
-  content: "In this digitally advanced era our topmost priority is your privacy and we work hard to to maintain it and so we assign a Privacy Manager to you.";
+  content: "";
   position: absolute;
   top: 100%;
   left: 50%;
@@ -56,10 +60,7 @@
   -webkit-animation: fadeIn 1s;
   animation: fadeIn 1s;
 }
-.fa-info-circle{
-	color: black;
-	font-size: small;
-}
+
 footer {
     color: #fff;
   }

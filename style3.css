@@ -41,7 +41,7 @@
 }
 
 .popup .popuptext::after {
-  content: "";
+  content: "In this digitally advanced era our topmost priority is your privacy and we work hard to to maintain it and so we assign a Privacy Manager to you.";
   position: absolute;
   top: 100%;
   left: 50%;
